@@ -1,0 +1,12 @@
+/*styling the table*/
+table {
+   border: 3px;
+}
+
+/*styling head*/
+.head {
+ font-size: 30px;
+ font-weight: bold;
+ font-family: 'Gill sans',
+ 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
