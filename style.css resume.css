@@ -1,0 +1,39 @@
+
+main{
+    margin : 0 ;
+    padding : 0 ;
+    box-sizing: border-box ;
+}
+body{
+    background-color:lightpink;
+    display: flex ;
+    justify-content: center ;
+    align-items; center;
+.full{
+    width: 50%;
+    max-width: 100px;
+    background-color: aqua;
+    margin: 0px;
+    display: grid;
+.left{
+    position: initial;
+    background-color: :-moz-only-whitespace;
+    padding: 20px;
+{
+    image, contact, qualification,career objective, skills.
+    margib bottom: 30px;
+}
+}
+.right{
+    position: initial;
+    background-color: blanchedalmond;
+    padding: 20px;
+}
+.h2{
+    background-color: aliceblue;
+}
+
+
+
+}
+}
